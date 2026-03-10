@@ -1,0 +1,27 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# Spring Boot
+*.log
+application-local.properties
+
+# OS
+.DS_Store
+Thumbs.db
